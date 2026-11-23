@@ -3,7 +3,7 @@ Welcome to the Charlie Brown Christmas Game "Holiday Defender"
 
 # Main Menu Image
 
-!(Main_menu_image.png)
+![screen shot of main menu](Main_menu_image.png)
 
 # How to play
 
